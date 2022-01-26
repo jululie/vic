@@ -1,6 +1,6 @@
 {
-  "name": "ui",
-  "description": "ui",
+  "name": "vic",
+  "description": "vic",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/mygbb/ui",
-  "repository": "https://github.com/mygbb/ui",
+  "website": "https://github.com/sadbirds/vic",
+  "repository": "https://github.com/sadbirds/vic",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
