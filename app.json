@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/sadbirds/vic",
-  "repository": "https://github.com/sadbirds/vic",
+  "website": "https://github.com/Dokim-s/vic",
+  "repository": "https://github.com/Dokim-s/vic",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
